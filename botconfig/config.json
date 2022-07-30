@@ -1,0 +1,48 @@
+{
+    "token": "OTk3MTkzNTU5MTM0NDUzODEy.GFH12q.Yo0Ks7-9mLQ_O-D5yueZN2O5hiyVci1xapmRUk",
+    "prefix": "1",
+    "ownerIDS": [
+        "442355791412854784"
+    ],
+    "fnbr": "GET from: https://fnbr.co",
+    "fortnitetracker": "1a78a9f2-a1e3-4ca7-b0fe-c8927051f719",
+    "memer_api": "ITVxiQ42Gze",
+    "status": {
+        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
+        "text2": "By: discord.gg/HYpEGUs7gj",
+        "type": "PLAYING",
+        "url": "https://twitch.tv/hassans34"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "lavalink.oops.wtf",
+                "port": 443,
+                "password": "www.freelavalink.ga"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "1b5aedea6eb04358aaebee7d76047f80",
+        "clientID": "b458566df412473d800daacdd5937e8f"
+      },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ"
+        }
+    }
+}
